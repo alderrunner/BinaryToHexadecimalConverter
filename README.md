@@ -1,6 +1,6 @@
 # Binary To Hexadecimal Converter
 
-After watching [this] (https://www.youtube.com/watch?v=yypxodcVI9M) video, I thought I could program the algorithm in Python. So here is my implementation. If you find any mistakes please let me know.
+After watching [this](https://www.youtube.com/watch?v=yypxodcVI9M) video, I thought I could program the algorithm in Python. So here is my implementation. If you find any mistakes please let me know.
 
 ## Usage
 
